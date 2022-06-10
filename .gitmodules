@@ -1,0 +1,3 @@
+[submodule "foundations/playground/css/css-exercises"]
+	path = foundations/playground/css/css-exercises
+	url = git@github.com:vishalxk/css-exercises.git
